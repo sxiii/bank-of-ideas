@@ -1,70 +1,84 @@
 ## The Open Bank of Ideas
 Have you ever felt that you have really cool idea, but lacked something to develop it further?
-It might be lack of knowledge, resources, human, time, money or a mix of these points?
-But you still believe that idea is so cool and need to be made someday buy someone?
-THE OPEN BANK OF IDEAS IS YOUR SAFE TICKET! Read on next to know more.
+It might be lack of knowledge, resources, people, time, money or a mix of these points?
+Still believe that idea is so cool and need to be made someday buy someone?
+THE OPEN BANK OF IDEAS IS YOUR SAFE TICKET!
 
-The following document is a FAQ about The Open Bank of Ideas.
+The following document is a FAQ about The Open Bank of Ideas and its honored community.
 
 ### What is this all about
-The Open Bank of Ideas is DRAFT place to openly exchange ideas for any project.
-It can be anything, from small electronic device that will help people do something, to multi-purpose international corporation. DRAFT, because github is mostly good for this task, but NEVER PERFECT. I might decide to move the bank somewhere. Ideally, we would prefer to move to some sort of blockchain-based, decentralized git, if we this solution will be more stable than github (but github and gitlab would still receive mirrors of The Open Bank in this case)
+The Open Bank of Ideas is DRAFT place to **openly exchange ideas for any project**.
 
-You can see this as a global, international brainstorming room, where everybody is always welcome!
-In the same way, The Open Bank can be seen as human ideas preservation place, similar to "Svalbard Global Seed Vault"  (github projects are stored there too, so OUR IDEAS might be in the next batch!).
-In another way, you can see The Open Bank as an open information space. You can sent your idea to float and develop in here.
+It can be anything, from small electronic device that will help people do something, to multi-purpose international corporation. DRAFT, because github is mostly good for this task, but NEVER PERFECT. We might decide to move the bank somewhere. Ideally, move it to some sort of blockchain-based, decentralized git, if it'll be more stable than github.
+Github and gitlab would still receive mirrors of The Open Bank in any case.
+
+### What is The Open Bank exactly?
+* You can see this as a **global brainstorming room**, where everybody is always welcome!
+* In another way, The Open Bank is an **open information space**. You can sent your idea to float and develop in here.
+* In the same way, The Open Bank can be seen as **human ideas preservation place**, similar to "Svalbard Global Seed Vault" (github projects are stored there too, so our ideas might be in the next batch!).
+* Last way, you can see The Open Bank as **international hackathon that never stops**.
 
 Q: "Can I work on my own project here, (and use this to hunt a team or more ideas)"?
 A: YES, this is also welcome in The Open Bank of Ideas.
 
-If you're still thinking "is my idea worth adding to the bank?", go to the FAQ section called "Adding ideas to the bank (AKA RULES)" and add your idea with special marker. Add your concirns about why it SHOULD and why it SHOULD NOT be made by somebody, and as the next step community will discuss your ideas and it's future here. Everybody's ideas are welcome!
+If you're still thinking "is my idea worth adding to the bank?", go to the FAQ section called "Adding ideas to the bank (AKA RULES)" and add your idea with special tag #unsure. Add your concirns about why it SHOULD and why it SHOULD NOT be made by somebody, and as the next step community will discuss your ideas and project's future. Everybody's ideas are welcome!
 
 NB: In more complex projects, people might decide to actually USE the idea but go a DIFFERENT ROUTE comparing to idea / plan / description. In fact, this will happen most of the time. This is normal, nobody's to blame, it's called **pivoting** in startup/business environment or **forking** in github terminology.
 
 ### What is the purpose of the bank?
 * Let the ideas come true (better if your idea will be made by some community, rather then never made by anyone, right?)
-* Solve the "lack-of-creativity" or "stucking" problem (it's when you're tired in the process of finding an interesting idea) * Give an fascinating, motivating and entertaining out-of the box experience
+* Give a fascinating, motivating and entertaining out-of the box experience
+* Solve the "lack-of-creativity" or "stuck" problem (when you're tired in the process of finding an interesting idea)
 * Honor the author of the idea in case if he wants to (NB: similar ideas might **already** be introduced by other people long time before The Open Bank of Ideas appeared!)
 
-Important to note here: **NO STRINGS ATTACHED**. It means, that your idea can be stored and not realized. Or your idea might be realized without mentioning you as an author. Or the ideas published here might not lead to successful projects or won't allow you earn some skills or money. It might help you find a team or build your community as well as it might destroy your team or community. So, by using The Open Bank of Ideas you realized that no strings attached.
+Important to note here: **NO STRINGS ATTACHED**. It means that your idea can be stored and never happen. Or your idea might be developed without mentioning you as an author. Or the ideas published here might not lead to successful projects. Or won't allow you earn some skills, or money. It might help you find a team, or build your community, as well as it might destroy your team or community. So, by using The Open Bank of Ideas you realized that **litetally no strings are attached anywhere**. We do have an "open-source codex of honor", some basic rules and moral guidelines (read on that further down below).
 
 ### Who can use the bank?
 * startuper (solo) or a startup team
-* scientist
+* developers & scientists
 * creative professions: coder, DIY person, artist, painter, book writer, musician or DJ, photographer, videographer
 * other individual (you?)
-* individual, company (both for-profit and non-profit)
+* company or organization (both for-profit and non-profit)
+* business accelerator or business angel community
+* startup hub or techno-park
+* team of professionals that lacks ideas to work on
 
 ### What ideas can be in the bank?
 A good item for the bank would be:
 * A startup idea with basic project description (example: a VR/AR/MR gaming park of a new level)
 * Business plan of certain level (ideally, including the most parts) (example: how to make a new type of restaurant)
 * Idea of a new methodology that will help with something (example: methodology on how to build an opensource city)
-* Description of new methodic of study (example: how to study chemistry to understand it better and faster)
+* Description of new method of study (example: how to study chemistry to understand it better and faster)
 * New mixed research area that isn't developed enough (example: biology of the brain + IT = neuro-interfaces etc.)
+* Artificial Intelligence and Machine Learning projects (example: new type of AI)
 * Computer game idea (example: a quest game about small creatures that are secretly live beneath the planet surface)
 * New computer gaming experience idea (ex.: new physical controller type, game with new principle etc.) 
-* Film idea (it can be anything from indie film to a large hollywood-style blockbuster)
+* Film idea (anything from indie film to a large hollywood-style blockbuster)
 * Electronic device idea or project drawing to create some sort of useful device
-* Software idea, software methodology, code examples etc (main github stuff that's already in here)
+* Software ideas, software methodology, code examples etc (main github stuff that's already in here)
 * Economics or fin-tech idea (example: new cryptocurrency or token project)
 * Transparency, governance or management idea (examples: new decentralized or blockchain project)
-* Interconnection or networking ideas (examples: new network protocol or topology)
+* Interconnection, IoT or networking ideas (examples: new network protocol or topology)
 * Cypher or encryption idea (example: new quantum-tolerant encryption algorithm)
+* Architecture idea or project drawing (example: an open-source program to plan and project smart villages)
 * New standard, standard group or standardizing methodology (example: standarts for creating optical links for quantum computers)
 * If you're still unsure, go to the FAQ section called "Adding ideas to the bank (AKA RULES)" and add your idea with special marker. Add your concirns about why it SHOULD and why it SHOULD NOT be made by somebody, and as the next step community will discuss your ideas and it's future here. Everybody's ideas are welcome!
 
 ### What else can be in the bank?
-Any smaller idea for the **creating** an object (physical or virtual) will also do: 
+Any smaller idea for the **creating** an "single" object (physical or virtual) will also do: 
 * book (may include or not include main plot points)
 * audio track (may include or not genre and track texture)
-* painting (may include or not include pallette and style)
+* painting or drawing (may include or not include pallette and style)
+* photographs ideas, photo session ideas, photo editing techniques
+* tutorials, how-to's
 * social/blog post, topic, or social campaign based on some topic
+* UI concepts
+* scientific video, video concepts or possible topics
 
 ### What should be level of the detail to get into the bank?
-The level of detail of the project can be any (but the more developed the better):
+The level of detail of the project can be any (the more developed the better):
 * Basic draft of the idea without large description
-* Medium-described projects with some ideas and details around it
+* Medium-described projects with ideas and details around it
 * Fully-blown project with business plan, financial plan, drawings, schematics and simulations
 
 The level of detail of your publication will also clarify your own level of interest in the development and might attract (or distract) other developers. Please take your time to prepare high-quality materials, without grammatical or other errors at your best.
@@ -75,16 +89,19 @@ Basically, it's three things:
 2. Markdown file in this repo's according folder. The markdown file itself should include the brief idea, while also ideally include reasoning, author's words, project status, involved persons list, contact details, and what's most important - links  to the project's main repo (yes, you'd ideally make your own repo for the project and cross-link it here!) and to the project website, if it exists.
 3. Brief images and illustrations of your project, that might be required for better understanding of point #2.
 
+Check out the "Project Template.md" or any published project if you want to see how things work in The Open Bank of Ideas.
+
 If you're ready to add your project, move to "How to add your idea" section.
 
-We don't want to make The Bank of Ideas a scrapyard of tonns of information. So each and every project is suggested having **one, brief text markdown description file** and maybe **few images** included. All additional information (that well-developed idea or project definitely should have!) needs to be placed in your own repos/websites and cross-linked from markdown.
+NB: We don't want to make The Bank of Ideas unstructured messy scrapyard with tonns of information (like internet is). So each and every project is suggested having **one, brief text markdown description file** and may have **few images** included. All additional information (that well-developed idea or project definitely should have!) needs to be placed in your own repos/websites and cross-linked from markdown file.
 
 ### Adding ideas to the bank (AKA "RULES")
-1. Agreement on success: you should be ready that your idea can be taken AND made by somebody (in any way or type). This is the main project goal, although it won't be reached too often, because even good ideas are hard to make at the start (in the "lack-of-everything" state).
-2. Agreement on (un)mentioning of the autor: you should be okay BOTH to be NOT included as author of resulting project and TO BE included as author of resulting project. The actual person or community may decide him or herself, and, what's more important, the idea might just even appear as outside of The Open Bank of Ideas. This happens all the time and it's TOTALLY NORMAL! Lastly, by using The Open Bank of Ideas, you should realize, that even if you ask for NOT MENTIONING you as an author, you **STILL CAN BE** mentioned if decided so by the actual developer of the idea or project. So, to sum up: you can **politely ask** the community to include or not to include you, but it **might not work out as you asked** in the result. We do, however, recommend each and every project developer to honor the author and follow his guidelines/requests if possible.
-3. Agreement of being polite person. Upon publication of your idea, you realize that somebody might find it good or stupid, good-for-profit (even if it's idea of opensource software) or good as opensource project (even if your project is described as a closed-source software). So you agree of not being rude, not blame anyone for changing the direction of your idea or project, for doing something wrong (or correct). Moral and etiquette is your best friends in here, as we gather for development and improvement, not for hatespeech discussion and ruining ideas.
-4. Transparency agreement. The idea of "The Open Bank of Ideas" is sharing, exchanging, improving and caring. Please do understand that transparency is a requirement in here and if you want somebody to make or improve your project, you need to share 200% of your ideas, materials etc. etc. For example, you might want to include a link to your own github repository with more details on your project.
-5. Moral & Etique. Your idea should be GOOD in general terms of Moral and Etique. We will NOT elaborate on what is Moral and Etique here explicitly and ON PURPOSE. Please go read on this topic in any other preferred source and develop your morality yourself! As an easy to understand example, we will have a zero tolerance on projects related to creating a weapons of any kind, crimes against humanity, hidden surveillance projects, projects that will highly probably lead to runied world, destroyed climate, bad ecology, or animal-harm projects. If you're unsure about your project, please share it with tags #unsure and #moderation-required, and we will try to find resources to research on the topic and find it as "general good" or "general bad". Please do understand that if your idea will fall into "general bad" category, it might be banned from The Open Bank of Ideas, sorry for that. 
+By publishing your ideas into "The Open Bank of Ideas", you agree to all of the following:
+1. **Agreement on success:** you should be ready that your idea *can be taken* AND made by somebody (in any way or type). This is the *main project goal*, although it won't be reached too often, because even good ideas are hard to make at the start (in the "lack-of-everything" state). Also, ideas frequently lack a good management and personnel.
+2. **Agreement on (un)mentioning of the autor:** you should be okay BOTH to be NOT included as author of resulting project and TO BE included as author of resulting project. The actual person or community may decide him or herself, and, what's more important, the idea might just even appear as outside of The Open Bank of Ideas. This happens all the time and it's TOTALLY NORMAL! Lastly, by using The Open Bank of Ideas, you should realize, that even if you ask for NOT MENTIONING you as an author, you **STILL CAN BE** mentioned if decided so by the actual developer of the idea or project. So, to sum up: you can **politely ask** the community to include or not to include you, but it **might not work out as you asked** in the result. We do, however, **recommend each and every project developer to honor the author** and follow his guidelines/requests if possible.
+3. **Agreement of being polite person:** upon publication of your idea, you realize that somebody might find it good or stupid, good-for-profit (even if it's idea of opensource software) or good as opensource project (even if your project is described as a closed-source software or project). So you agree of not being rude, not blame anyone for changing the direction of your idea or project, for doing something wrong (or correct). Moral and etiquette is your best friends in here, as we gather for development and improvement, not for hatespeech discussion and ruining ideas.
+4. **Transparency agreement:** the idea of "The Open Bank of Ideas" is sharing, exchanging, improving and caring. Please do understand that transparency is a requirement in here and if you want somebody to make or improve your project, you need to share 200% of your ideas, materials etc. etc. For example, you might want to include a link to your own github repository with more details on your project, link to website, as well as register a social network accounts for news etc.
+5. **Moral & Etique:** your idea should be GOOD in general terms of Moral and Etique. We will NOT elaborate on what is Moral and Etique here explicitly and ON PURPOSE. Please do read on this topic in any other preferred source and develop your morality yourself! As an easy to understand example, we will have a zero tolerance on projects related to creating a weapons of any kind, crimes against humanity, hidden surveillance projects, projects that will highly probably lead to runied world, destroyed climate, bad ecology, or animal-harm projects. If you're unsure about your project, please share it with tags #unsure and #moderation-required, and we will try to find resources to research on the topic and find it as "general good" or "general bad". Please do understand that if your idea will fall into "general bad" category, it might be banned from The Open Bank of Ideas, sorry for that. 
 
 ### How to add your idea (AKA "THE PROCESS")
 1. Clone this repository
@@ -133,4 +150,27 @@ Also, if you're unsure about similarity to other projects, please do publish it 
 * still working on project's description draft? Add: #draft (remove #draft after you finish with description and basics)
 * other tags might be added in the future
 
-Cross collaboration is our power. Let's go develop!
+### I've published the idea in the Open Bank. What's now?
+It totally depends on you, your time and your goals with the project.
+1) **Passive way.** You might want to just preserve your idea for the future or for somebody to work on it someday. In this case, you don't need to do anything further, maybe to subscribe to this repository ("watch" button on the top-right) and that's all.
+2) **Medium way.** If you want to develop the project by yourself from time to time, you might want to start a discussion ("issue" with description of problems you met upon developing your idea or project. After that, you might add tags, for example, "#need-developer" and "#need-investor" and subscribe to this repo ("watch" button on the top-right).
+3) **Active way.** If active involvement and development are your priority, you might need to do a lot of work both inside and outside of scope of your project. As there can't be general advices for inside ideas or projects as all are unique, we can recommend doing some outside PR work: create community for your project in all social networks. Start a blog or two, write articles about results of your project development. Update github, blogs, websites, social networks as frequent as you can. Create engagement, add a "we're hireing!" page on a project website (even if you don't have money to pay for development at this point). 
+
+Results (in idea development) may vary due to quality of your project, your involvement, current conditions on the market, weather, quality of life of your developers and 100500 other criteria. But if you've added your idea to The Open Bank, nobody can say anymore that "you hadn't left anything for your descendants". Just give them a link to The Bank!
+
+### I like the idea of The Open Bank of Ideas! Can I support it?
+Sure! There are two main ways of doing it.
+* Direct ways to support author of The Open Bank of Ideas (@sxiii):
++ Share the link to The Open Bank of Ideas or to it's sub-projects (with short description)
++ Draw informational and advertisement graphics for ideas of The Open Bank and share it everywhere
++ Send an email campaign with information about The Open Bank to your customers or community
++ Do a post about The Bank somewhere in cryptoblog, social network or wherever you like
++ Tell about The Bank in your podcast or video
++ Donate any amount of any cryprocurrency or any fiat money to author (contact me on github @sxiii or telegram @fakesnowden)
++ Help people add their ideas to The Bank
+* Indirect (but still very important!) ways:
++ Support any opensource project in any way you like (read options above) - it does not have to be listed in The Bank
++ Share your appreciation to opensource movement any way you like
++ Help new people with opensource software or anything you feel they need help for!
+
+Cross collaboration is our power. Let's go develop together!
