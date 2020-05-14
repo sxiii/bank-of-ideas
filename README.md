@@ -123,7 +123,7 @@ By publishing your ideas into "The Open Bank of Ideas", you agree to all of the 
 ### What is markdown and how it's done?
 It's an easy and understandable syntax for writing a documents, briefs and other papers. [Read more](http://en.wikipedia.org/wiki/Markdown)
 
-### Licensing schemes for The Open Bank
+### Licensing schemes for The Open Bank ideas/projects
 The idea behind the Open Bank of Ideas movement is basically an open-source movement. So we have a "opensource code of honor" and we do appreciate the idea MORE, the MORE it is open. But as the Open Bank of Ideas cannot limit any kinds of licenses, here we do have all three "levels" of licensing:
 1. PREFERRED LICENSE: Any copyleft, open-source and viral license. Examples: GPL, CC Share-alike. "Viral" means that **to legally develop a forked opensource project you MUST have THE SAME LICENSE (hense viral) and link the upstream source code or idea**.
 2. OKAY LICENSE: Any open-source, permissive, weak copyleft, public domain or less/un-viral license. This may be useful for semi-open-semi-proprietary projects that would have to include some proprietary parts. Examples: MIT, BSD, WTFPL, Apache, Mozilla, CC aka "Some Rights Reserved", etc. Basically, any "open-source"-typed license will do.
