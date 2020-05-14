@@ -104,8 +104,8 @@ By publishing your ideas into "The Open Bank of Ideas", you agree to all of the 
 5. **Moral & Etique:** your idea should be GOOD in general terms of Moral and Etique. We will NOT elaborate on what is Moral and Etique here explicitly and ON PURPOSE. Please do read on this topic in any other preferred source and develop your morality yourself! As an easy to understand example, we will have a zero tolerance on projects related to creating a weapons of any kind, crimes against humanity, hidden surveillance projects, projects that will highly probably lead to runied world, destroyed climate, bad ecology, or animal-harm projects. If you're unsure about your project, please share it with tags #unsure and #moderation-required, and we will try to find resources to research on the topic and find it as "general good" or "general bad". Please do understand that if your idea will fall into "general bad" category, it might be banned from The Open Bank of Ideas, sorry for that. 
 
 ### How to add your idea (AKA "THE PROCESS")
-1. Clone this repository
-2. Add your idea to the section (folder) that you think it should belong, as a markdown file, with the following name scheme: [ folder/project-name-superbrief-proposal.md ]. For example, if you would like to add a description about your idea of making a neuro-helmet as a neuro-interface for doctors, please make file similar to [ neuro/neurointerface-for-doctors.md ]. Add images if needed as files [ neuro/neurointerface-for-doctors-illustration-1.png ].
+1. Clone this repository ```git clone sxiii/bank-of-ideas```.
+2. Add your idea to the section (folder) that you think it should belong, as a markdown file, with the following name scheme: ``` [ folder/project-name-superbrief-proposal.md ]```. For example, if you would like to add a description about your idea of making a neuro-helmet as a neuro-interface for doctors, please make file similar to ```[ neuro/neurointerface-for-doctors.md ]```. Add images if needed as files ```[ neuro/neurointerface-for-doctors-illustration-1.png ]```.
 3. Create a pull request with short info on your project.
 
 ### What should be in the project's markdown file?
