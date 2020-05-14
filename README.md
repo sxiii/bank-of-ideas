@@ -2,7 +2,7 @@
 Have you ever felt that you have really cool idea, but lacked something to develop it further?
 It might be lack of knowledge, resources, people, time, money or a mix of these points?
 Still believe that idea is so cool and need to be made someday buy someone?
-THE OPEN BANK OF IDEAS IS YOUR SAFE TICKET!
+The Open Bank of Ideas is your safe ticket!
 
 The following document is a FAQ about The Open Bank of Ideas and its honored community.
 
