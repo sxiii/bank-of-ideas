@@ -47,6 +47,14 @@ Optionally, radio could have also have a "normal" radio stream option (without a
 This project would require developing of comment parser & files downloader, or finding someone's good software for this task.
 Other components are MOSTLY ready to use as-is or with little settings.
 
+## Sources for the tracks
+What comes to my mind (please update this file if you know better or additional ones):
+* Youtube-dl to download videos and convert them to audios (`youtube-dl "ytsearch1:metallica - nothing else"`) - this option will give HUGE database of tracks but of medium to medium-low quality OR we can even use source youtube videos
+* Telegram bots that search for music and return files (this will usually provide better files than youtube, but the database will be smaller)
+* Open track databases, something similar to jamendo (this DB is even smaller, but can provide highest quality files as well as these tracks can be legally played and broadcasted)
+
+Please feel free to add your track source if you know some (as this project will probably start as a hobby project and there won't be any huge money invested in the start, please provide free-as-in-freedom or free-as-in-beer sources).
+
 ## Author
 Mentioning author of the project idea - @sxiii would be really nice.
 
