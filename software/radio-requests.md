@@ -20,7 +20,7 @@ search for a song, download it, and schedule for playback.
 * Donator's bonus 3: Allows to play tracks of length up to ...14... minutes
 * Follower's bonuses: You could have +1 more track order per day if you're follower
 * Track-ban list: Radio might need a blacklist that will block several tracks for requests due to quality, unsuitable style or moral policy
-* Two playlists: current (including user's requests) and permanent (including only "normal" radio tracks)
+* Three playlists: current (including user's requests), permanent (including only "normal" radio tracks), and "ads" (audio mix-ins that are included each # number of tracks, for example, radio name & URL address)
 * Popular track: if track is requested by some # of users (let's say, 3, 5 or 10), add it to permanent playback list rather than current
 * Bot feedback: after playback is scheduled, a bot would reply to chat "Thank you @useranme_who_requested, your track "Artist - Track" was added to the playlist and it will be played after ...7... tracks from now on
 
