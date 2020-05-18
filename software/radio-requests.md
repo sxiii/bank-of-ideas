@@ -30,7 +30,7 @@ The idea for this project appeared after I found a lot of people are requesting 
 ```
 RR, please play "Artist - Songname" song.
 ```
-This comment can be parser for "RR, please play" and then we take everything in quotes. After, we separate the Artist from trackname by searching for dash "-" and after this, we can use the data to search in some good sources for WAV, OGG, FLAC, MP3 or whatever we can find.
+This comment can be parsed for "RR, please play" and then we take everything in quotes. After, we separate the Artist from trackname by searching for dash "-" and after this, we can use the data to search in some good sources for WAV, OGG, FLAC, MP3 or whatever we can find.
 
 ## Platform development options
 As just a draft idea, we can spin a Linux server (on a desktop, laptop or actual server) with the following software:
