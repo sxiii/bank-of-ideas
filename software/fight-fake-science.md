@@ -3,7 +3,7 @@
 ## Brief description
 Web-based tool that allows you to fight fake science in effective manner (by betting & voting).
 
-In another terms, we help populating the SCIENTIFIC approach while they also earn money.
+In another terms, the project will help populating the SCIENTIFIC approach while users also can earn money.
 
 Important: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATION project.
 
