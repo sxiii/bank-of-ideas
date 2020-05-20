@@ -3,20 +3,9 @@
 ## Brief description
 Web-based tool that allows you to fight fake science in effective manner (by betting & voting).
 
-Important here is that only one side is required to initiate the "deal" or "define a problem".
-To do it, he/she needs to freeze his/her money in an ESCROW.
-Another side will see this frozen money when checking out the web page of the "problem" or "deal".
+In another terms, we help populating the SCIENTIFIC approach while they also earn money.
 
-
-
-This way we can see if:
-* both sides of the problem TAKE IT SERIOUSLY (hense the money)
-* even more important they TAKE IT SCIENTIFICALLY (done good research on topic or being a specialist in the field)
-* both sides will also need to invest time amongst money to register, verify and send money to platform (that's measure for additional "seriocity") 
-
-As they vote with their own MONEY and REPUTATION.
-
-Important: this is not a betting project, but it's a SCIENTIFIC AMPLIFICATION project.
+Important: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATION project.
 
 ### Preface and problem description
 Have you ever encountered a friends, that tells you some conspirological theories? 
@@ -31,8 +20,19 @@ Information technologies gives us power to spread information, no matter how ser
 So we need to deal with this problem. I found one way to do it.
 
 ### Project full description
-Web-based tool where two or more sides of meet in the common grounds of real science and proofchecked information.
-System involves the "competing" sides, and jundges-voters.
+Web-based tool where two or more sides meet in the common grounds of real science and proofchecked information.
+System involves the "competing" sides, jundges-voters and users-donators.
+
+Important here is that only one side is required to initiate the "deal" or "define a problem".
+To do it, he/she needs to freeze his/her money in an ESCROW.
+Another side will see this frozen money when checking out the web page of the "problem" or "deal".
+
+This way we can see if:
+* both sides of the problem TAKE IT SERIOUSLY (hense the money)
+* even more important they TAKE IT SCIENTIFICALLY (done good research on topic or being a specialist in the field)
+* both sides will also need to invest time amongst money to register, verify and send money to platform (that's measure for additional "seriocity") 
+
+As they vote with their own MONEY and REPUTATION.
 
 ### Project pipeline with examples
 = DRAFT STATE =
@@ -85,12 +85,16 @@ Remember - this is not a betting website idea, rather than SCIENTIFIC IMPLIFICAT
 When donating, they can choose what to do with their money in case the deal is unsolved/cancelled/mediated 50/50%.
 For example, they can spread money 50/50 to winners or ask the platform to send their money back.
 
+When user donates towards the winning outcome, he is receiving some reputation and the deal-related "donator" badge/achievement.
+
+### Comission schemes
 Platform should get larger comission (example: 2x...10x to normal comission) for fiat currencies because they involves gateways and chargebacks.
 
 ### Platform roles
-a) users that adds the "deals" or "problems"
+a) users-problem creators that adds the "deals" or "problems"
 b) judges that decide on the problems (can be one or multiple, but ideally odd number)
-c) administrators and tech stuff that handles problems with the system
+c) normal "external" users that are not the part of the deal (they can donate to the future winner of the problem)
+d) administrators and tech stuff that handles problems with the system
 
 ### ONE DEAL = ONE ROLE
 * All users are able to fullfill all roles (except admin roles obviously), but inside ONE DEAL each user is assigned ONLY ONE ROLE.
