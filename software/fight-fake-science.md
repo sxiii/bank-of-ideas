@@ -29,18 +29,19 @@ To do it, he/she needs to freeze his/her money in an ESCROW.
 Another side will see this frozen money when checking out the web page of the "problem" or "deal".
 
 This way we can see if:
-* both sides of the problem TAKE IT SERIOUSLY (hense the money)
+* both sides of the problem TAKE IT SERIOUSLY (hence the money)
 * even more important they TAKE IT SCIENTIFICALLY (done good research on topic or being a specialist in the field)
 * both sides will also need to invest time amongst money to register, verify and send money to platform (that's measure for additional "seriocity") 
 
 As they vote with their own MONEY and REPUTATION.
 
 ### Project pipeline with examples
+When one user creates the project or deal, it enters the "draft state" automatically.
 = DRAFT STATE =
 1) One or two sides of the conflict rise their topic. For example, "drinking alcohol protects you from viruses".
-2) Each side of the conflict takes one of the position: "pro-position" (says that topic is TRUE) and "opposing force position" or opposition (says that topic is FALSE)
+2) Each side of the conflict takes one of the position: "pro-position" (says that topic is TRUE) and "opposing force position" or opposition (says that topic is FALSE), sides can add their position description and links, but the change history will be always preserved & shown
 3) Criterias are setted-up, for example: "10 fact-checked science articles from popular science source"
-4) Criterias are described: here you describe what means "fact-checked", describe sources lists of "popular science sources"
+4) Criterias are described: project describer elaborates more on what means "fact-checked", describes sources lists of "popular science sources" etc.
 5) Project time-frame is set: 1 week, 1 month, 1 year, 5 years etc. Can be any date in the future. 
 6) Judges settings are configured: number of judges (do we want one ESCROW jundge or multiple ones; but ideally an odd number of judges), judge time (less than the project's time-frame), judge minimal final comment size in symbols (example 2000)
 7) Prize pool rules is set:
@@ -48,23 +49,29 @@ As they vote with their own MONEY and REPUTATION.
 * condition if one side wins (for example, gets 90% of the prize minus 5% judge comissions and 5% platform comissions)
 * condition if both sides are somewhat correct (for example, each side got their full money back)
 "Problematic" conditions can either be setted by creators OR by platform:
-* condition on judges not found (ex., money back)
-* condition on technical problems (full money back)
-* condition on problem timeout (judges didn't decided but the end date reached): (ex.: money back minus 5% to platform)
+* condition on "judges not found" (ex., money back)
+* condition on "technical problems" (full money back)
+* condition on "judges timeout" (judges didn't decided but the end date reached): (ex.: money back minus 5% to platform)
 8) The money from ONE or BOTH sides is frozen in platform ESCROW
-After at least one side frozes it's money in ESCROW, we're entering hte PRE-ACTIVE STATE.
+After at least one side frozes it's money in ESCROW, we're entering hte PRE-ACTIVE STATE. The project is now fully public.
 = PRE-ACTIVE STATE =
 If money is received from one ESCROW side, the problem is published online and available for review, but the judges are not arranged. At the moment the money was received by BOTH sides and frozen in ESCROW smart contract, we're entering ACTIVE STATE.
 = ACTIVE STATE =
 If money gathered in ESCROW from both sides, we know that both of the deal's sides take problem seriously.
 Process of arranging the judges starts and it can take some time, depending on the number of judges, but the problem is anyway published online.
+While waiting for the judges, each side of the deal can publish and update his opinion (the versions and updates will be all visible!), add links to the sources and articles they found etc. etc., - use scientific approach to show other side why his point of view is correct.
 = JUDGING STATE =
-When judges accept their invitation to the project, they can specify approx time they need.
+When judges accept their invitation to the project, they can specify time they need.
 It's automatically setted-up to the project's maxium (for example, creator set project time as 1 month and judge time as 1 week), but judges can set time to less amount (say, 4 or 3 days).
+Probably it would be good idea to prohibid the judges to vote on the same day.
+After judges are arranged, they receive information from the both sides: project/deal description, both opinions, version changes, description changes, user reputations, comments and comments changes, etc.
 = FINALE =
-Judge(s) have decided on the topic and writes a follow-up comment on his decision (not less than minimal number of symbols setted-up by project creator), giving sides as well as external users the general overview of the problem, related links, and everything he can think of. Then, one of the following happends:
-* either one side receives money if it wins
-* or both sides receive money back if the problem is unclear and everybody's right in their terms
+Judge(s) have decided on the topic and writes a follow-up comment on his decision (not less than minimal number of symbols setted-up by project creator), giving sides as well as external users the general overview of the problem, related links, and everything he can think of. For our example, let's say that judge decided that "drinking alcohol cannot protect you from viruses". So in the FINALE one of the following happends:
+* either one side receives money if it wins (minus judge & platform fees) -> in our example case opposition wins and receives the 90% of the deal budget
+* or both sides receive money back if the problem is unclear or everybody's right in their terms or there's been some technical issues
+
+### Transparency of prize fund
+Prize fund can be fully shown to judges & users or semi-hidden or fully hidden. This topic needs to be researched more if we need any settings for that or not.
 
 ### Re-judging
 I don't see any real reasons to implement additional options to re-judge rather than describing a separate deal:
