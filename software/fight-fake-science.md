@@ -8,7 +8,7 @@ In another terms, the project will help populating the SCIENTIFIC approach while
 Important: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATION project.
 
 ### Preface and problem description
-Have you ever encountered a friends, that tells you some conspirological theories? 
+Have you ever encountered a friends, that tells you some strange stories conspirological theories? 
 * like, "dangerousness" of some new kind of tech (can be any kind)
 * or a friend who's trying to prove that world is controlled by one government (or one reptiloid?)
 * maybe you had an argue-bet with your friend but never got a chance for safe betting?
