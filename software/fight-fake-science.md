@@ -14,7 +14,7 @@ Have you ever encountered a friends, that tells you some strange stories or cons
 * maybe you had an argue-bet with your friend but never got a chance for safe betting?
 
 If the answer is yes, you'd probably struggle to bring him to common grounds: science & discussion.
-People tend to believe in crazy things. The more crazy thing is, the more people might believe it.
+People tend to believe in crazy things. Sometimes even the more crazy thing is, the more people believe it.
 
 Information technologies gives us power to spread information, no matter how serious, true or fake it is.
 
