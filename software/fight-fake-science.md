@@ -5,7 +5,7 @@ Web-based tool that allows you to fight fake science in effective manner (by bet
 
 In another terms, the project will help populating the SCIENTIFIC approach while users also can earn money.
 
-Important: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATION project.
+NB: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATION project.
 
 ### Preface and problem description
 Have you ever encountered a friends, that tells you some strange stories or conspirological theories? 
@@ -23,6 +23,8 @@ So we need to deal with this problem. I maybe found a way to do it... that seems
 ### Project full description
 Web-based tool where two or more sides meet in the common grounds of real science and proofchecked information.
 System involves the "competing" sides, jundges-voters and users-donators.
+
+In the Fight Fake Science service you could BET AGAINST WRONG IDEAS (not specially against some exact people) and let people see and understand the manipulative nature of fake-scientist's minds. You might have or might have not exact opponent, but if your opponents are serious about their position, they will counter-bet you. If nobody will counter-bet you, you can use the result page as perfect illustration of sneakyness of the fake scientists, and show it to your friends and family for their better understanding of the problem. And you will get all your betting money back, of course.
 
 Important here is that only one side is required to initiate the "deal" or "define a problem".
 To do it, he/she needs to freeze his/her money in an ESCROW.
