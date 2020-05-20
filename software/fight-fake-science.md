@@ -3,6 +3,8 @@
 ## Brief description
 Web-based tool that allows you to fight fake science in effective manner (by betting & voting).
 
+In super-short, FFS allows you to bet against fake science - both WITH exact and WITHOUT exact opponent.
+
 In another terms, the project will help populating the SCIENTIFIC approach while users also can earn money.
 
 NB: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATION project.
