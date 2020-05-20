@@ -10,14 +10,15 @@ Important: this is not a betting project idea, but it's a SCIENTIFIC AMPLIFICATI
 ### Preface and problem description
 Have you ever encountered a friends, that tells you some conspirological theories? 
 * like, "dangerousness" of some new kind of tech (can be any kind)
-* or a friend who's trying to prove that world is controlled by one government (one one reptiloid?)
-* or maybe you had an argue-bet with your friend but never got a chance for safe betting?
+* or a friend who's trying to prove that world is controlled by one government (or one reptiloid?)
+* maybe you had an argue-bet with your friend but never got a chance for safe betting?
 
 If the answer is yes, you'd probably struggle to bring him to common grounds: science & discussion.
 People tend to believe in crazy things. The more crazy thing is, the more people might believe it.
+
 Information technologies gives us power to spread information, no matter how serious, true or fake it is.
 
-So we need to deal with this problem. I found one way to do it.
+So we need to deal with this problem. I found a way to do it that seems legit.
 
 ### Project full description
 Web-based tool where two or more sides meet in the common grounds of real science and proofchecked information.
@@ -36,12 +37,12 @@ As they vote with their own MONEY and REPUTATION.
 
 ### Project pipeline with examples
 = DRAFT STATE =
-1) One or two sides of the conflict rise their topic. For example, "alcohol protects you from viruses".
-2) Each side of the conflict takes one of the position: "pro-position" (says that topic is TRUE) and "opposing force position" (says that topic is FALSE)
+1) One or two sides of the conflict rise their topic. For example, "drinking alcohol protects you from viruses".
+2) Each side of the conflict takes one of the position: "pro-position" (says that topic is TRUE) and "opposing force position" or opposition (says that topic is FALSE)
 3) Criterias are setted-up, for example: "10 fact-checked science articles from popular science source"
 4) Criterias are described: here you describe what means "fact-checked", describe sources lists of "popular science sources"
-5) Project time-frame is set: 1 week, 1 month, 1 year, 5 years etc. Can be any date in the future. Also judge time is set (less than the project's time-frame)
-6) Judges are invited (can be one ESCROW jundge or multiple ones; but ideally an odd number of judges)
+5) Project time-frame is set: 1 week, 1 month, 1 year, 5 years etc. Can be any date in the future. 
+6) Judges settings are configured: number of judges (do we want one ESCROW jundge or multiple ones; but ideally an odd number of judges), judge time (less than the project's time-frame), judge minimal final comment size in symbols (example 2000)
 7) Prize pool rules is set:
 * what currencies to use for this problem (can be ideally a cryptocurrency, but normal currencies might also be accepted)
 * condition if one side wins (for example, gets 90% of the prize minus 5% judge comissions and 5% platform comissions)
@@ -53,30 +54,44 @@ As they vote with their own MONEY and REPUTATION.
 8) The money from ONE or BOTH sides is frozen in platform ESCROW
 After at least one side frozes it's money in ESCROW, we're entering hte PRE-ACTIVE STATE.
 = PRE-ACTIVE STATE =
-If money is received from one ESCROW side, the problem is published online and available for review, but the judges are not arranged.
-At the moment the money was received by BOTH sides and frozen in ESCROW smart contract, we're entering ACTIVE STATE.
+If money is received from one ESCROW side, the problem is published online and available for review, but the judges are not arranged. At the moment the money was received by BOTH sides and frozen in ESCROW smart contract, we're entering ACTIVE STATE.
 = ACTIVE STATE =
 If money gathered in ESCROW from both sides, we know that both of the deal's sides take problem seriously.
 Process of arranging the judges starts and it can take some time, depending on the number of judges, but the problem is anyway published online.
 = JUDGING STATE =
 When judges accept their invitation to the project, they can specify approx time they need.
 It's automatically setted-up to the project's maxium (for example, creator set project time as 1 month and judge time as 1 week), but judges can set time to less amount (say, 4 or 3 days).
-
-FINALE: After the 
+= FINALE =
+Judge(s) have decided on the topic and writes a follow-up comment on his decision (not less than minimal number of symbols setted-up by project creator), giving sides as well as external users the general overview of the problem, related links, and everything he can think of. Then, one of the following happends:
+* either one side receives money if it wins
+* or both sides receive money back if the problem is unclear and everybody's right in their terms
 
 ### Re-judging
 I don't see any real reasons to implement additional options to re-judge rather than describing a separate deal:
-* User that is not "happy" with the judge deceision, sets a new deal with more money then he invested for the first time
-* If he wins this time, in result his previous money are "returned" with some xtra
-* In the most cases probably user will actually fail again as other judge will both take into consideration previous judge comments as well as his own research
+* User, that is not "happy" with the judge deceision, sets a new deal with more money then he invested for the first time
+* If he wins this time, in "total" result his previous money are "returned" with some extra
+* Probably user will actually fail again as other judge will both take into consideration his own new research as well as previous judge comments on the problem
+
+The only thing we might want to implement here is "re-judging" flag that will allow us to attach previous user's deal so that next time the problem will be decided by another judge (or judges list).
 
 ### PR page with ratings for social sharing
 There should be two kinds of pages for everybody to check out:
-* the project page: what the voting is about and results of the voting, if finished, as well as user's and judge's comments
-* the user's page: description of user-created "deals", outcomes, etc.
+* the project public page: what the voting is about and its results (if finished), as well as user's and judge's comments
+* the user's reputation page: description of user-created "deals", outcomes, etc.
 
 This pages are important as with them we can show people how scientific approach works.
 Even better, we can help people earn money while populating the SCIENTIFIC approach.
+
+### Blockchain-based for transparency
+Ideally, the project would have to be a blockchain-based platform for the following reasons:
+* easyness of implementation of any transparent crypto into the platform (that's a requirement for ESCROW smart contracts to function)
+* deal should have comments that IS POSSIBLE TO EDIT, BUT also near should be button to open the COMMENTS CHANGE HISTORY, so in general, comments STAYS FOREVER but they are "STILL EDITABLE" in some kind -> this way we can find if somebody is chaning his attitude and it will make it for judges to easier understand if user really taking the point that he tells he does or the user is just trying to MANIPULATE other's opinions
+
+### Crypto, score and reputation
+I see this platform can use at least 3 types of assets:
+1) "Money" or liquid asset. This is what user are voting for. It can be any crypto such as BTC, ETH, BTS, DOGE, XRP, or any currency as USD, CAD, GBP, EUR, RUB, NOK, etc. This is up to the user but "currencies" will have higher comissions that "crypto" (reason is payment gateways comissions)
+2) "Local instant score points" semi-liquid asset. It's something in between the actual money and reputation score. Probably should be implemented as crypto, and also transferrable, but slowly (e.g. you might want to withdraw them, but you need to wait a month or so)
+3) Reputation. Impossible to withdraw or transfer. Rep changes only according to outcomes of the deals or judges. There should be two types of reputation shown: first, as "instant reputation" or "current rep" which will be number from -100 to +100 showing approximate user's "quality" as judge or normal user. Second, as "permanent reputation" which never goes down, so it's a "sum" of all positive votes without any effect of negative ones. Example for reputation: user was judges 2 times and he was voted as +68 and +95. Then, also he was in two deals, one time one, one time lost. On the winning he was rated +59 and on loss he got -35. As the reputation never goes down, he's "permanent reputation points" are 68+95+59 which is 222 points, while his current reputation is actually 187. Both reputation's are shown. "Permanent reputation points" can be seen as another option for "account age & account total performance level" without looking into the details while "current" reputation shows the user's qualification on the topics that he judged or took part in.
 
 ### Everyone is involved!
 Other users, that are not part of the deal and not the judges, can make a DONATION for a WINNING CONDITION.
@@ -103,7 +118,6 @@ d) administrators and tech stuff that handles problems with the system
 * Platform should show reputation for USERS and JUDGES as well as money earned in the process
 * All platform code should be opensource, published & ideally verified by trusted users or companies
 * All updates to the platform should be done only after user voting on the idea, except for the fixing technical faults
-
 
 ## Functions list
 * TBD
