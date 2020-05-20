@@ -151,8 +151,12 @@ d) administrators and tech stuff that handles problems with the system
 * TBD
 * Steem-code based maybe? Or not.
 
-## Author
+## Author & naming ideas
 Mentioning author of the project idea - @sxiii would be really nice.
+
+As for the project naming, "Fight Fake Science" or FFS sounds good to me as well as creating some similarity to Free Software Foundation naming, which's kinda cool. Users can be even called "Fake Science Fighters" which actually matching the FSF naming. 
+
+Another way, it also might be good to create a "meaningless" or semi-meaningless name which people will remember in time, something like "Ionpear" or "Clevelogic" or whatever. The naming is not that important as the project itself is, anyway.
 
 ## License
 Preferably the GPLv3 or similar.
