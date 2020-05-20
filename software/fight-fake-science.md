@@ -53,19 +53,23 @@ When one user creates the project or deal, it enters the "draft state" automatic
 * condition on "technical problems" (full money back)
 * condition on "judges timeout" (judges didn't decided but the end date reached): (ex.: money back minus 5% to platform)
 8) The money from ONE or BOTH sides is frozen in platform ESCROW
-After at least one side frozes it's money in ESCROW, we're entering hte PRE-ACTIVE STATE. The project is now fully public.
-= PRE-ACTIVE STATE =
+After at least one side frozes it's money in ESCROW, we're entering hte PRE-ACTIVE STATE. The project is now fully public and goes through 4 stages:
+
+### = PRE-ACTIVE STATE =
 If money is received from one ESCROW side, the problem is published online and available for review, but the judges are not arranged. At the moment the money was received by BOTH sides and frozen in ESCROW smart contract, we're entering ACTIVE STATE.
-= ACTIVE STATE =
+
+### = ACTIVE STATE =
 If money gathered in ESCROW from both sides, we know that both of the deal's sides take problem seriously.
 Process of arranging the judges starts and it can take some time, depending on the number of judges, but the problem is anyway published online.
 While waiting for the judges, each side of the deal can publish and update his opinion (the versions and updates will be all visible!), add links to the sources and articles they found etc. etc., - use scientific approach to show other side why his point of view is correct.
-= JUDGING STATE =
+
+### = JUDGING STATE =
 When judges accept their invitation to the project, they can specify time they need.
 It's automatically setted-up to the project's maxium (for example, creator set project time as 1 month and judge time as 1 week), but judges can set time to less amount (say, 4 or 3 days).
 Probably it would be good idea to prohibid the judges to vote on the same day.
 After judges are arranged, they receive information from the both sides: project/deal description, both opinions, version changes, description changes, user reputations, comments and comments changes, etc.
-= FINALE =
+
+### = FINALE =
 Judge(s) have decided on the topic and writes a follow-up comment on his decision (not less than minimal number of symbols setted-up by project creator), giving sides as well as external users the general overview of the problem, related links, and everything he can think of. For our example, let's say that judge decided that "drinking alcohol cannot protect you from viruses". So in the FINALE one of the following happends:
 * either one side receives money if it wins (minus judge & platform fees) -> in our example case opposition wins and receives the 90% of the deal budget
 * or both sides receive money back if the problem is unclear or everybody's right in their terms or there's been some technical issues
