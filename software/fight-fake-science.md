@@ -16,9 +16,9 @@ Have you ever encountered a friends, that tells you some strange stories or cons
 If the answer is yes, you'd probably struggle to bring him to common grounds: science & discussion.
 People tend to believe in crazy things. Sometimes even the more crazy thing is, the more people believe it.
 
-Information technologies gives us power to spread information, no matter how serious, true or fake it is.
+Information technologies gives us power to spread information, **no matter how serious, true or fake it is**.
 
-So we need to deal with this problem. I found a way to do it that seems legit.
+So we need to deal with this problem. I maybe found a way to do it... that seems legit.
 
 ### Project full description
 Web-based tool where two or more sides meet in the common grounds of real science and proofchecked information.
