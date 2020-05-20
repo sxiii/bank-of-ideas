@@ -93,6 +93,16 @@ I see this platform can use at least 3 types of assets:
 2) "Local instant score points" semi-liquid asset. It's something in between the actual money and reputation score. Probably should be implemented as crypto, and also transferrable, but slowly (e.g. you might want to withdraw them, but you need to wait a month or so)
 3) Reputation. Impossible to withdraw or transfer. Rep changes only according to outcomes of the deals or judges. There should be two types of reputation shown: first, as "instant reputation" or "current rep" which will be number from -100 to +100 showing approximate user's "quality" as judge or normal user. Second, as "permanent reputation" which never goes down, so it's a "sum" of all positive votes without any effect of negative ones. Example for reputation: user was judges 2 times and he was voted as +68 and +95. Then, also he was in two deals, one time one, one time lost. On the winning he was rated +59 and on loss he got -35. As the reputation never goes down, he's "permanent reputation points" are 68+95+59 which is 222 points, while his current reputation is actually 187. Both reputation's are shown. "Permanent reputation points" can be seen as another option for "account age & account total performance level" without looking into the details while "current" reputation shows the user's qualification on the topics that he judged or took part in.
 
+### User profile page
+Along with the other things, user profile should also show:
+* registration date
+* connected social networks (can be WITH or WITHOUT his links depending on the user publicity settings)
+* verification state (maybe?) for the phone/IDs
+* number of created deals (mouse over to see WINNINGS and LOSSES)
+* number of judges (mouse over to see list of the deals & his choices)
+* user's comments
+* can be also extended so users will have a public blog even without creating a deals
+
 ### Everyone is involved!
 Other users, that are not part of the deal and not the judges, can make a DONATION for a WINNING CONDITION.
 They CANNOT vote for any side, rather they are DONATING towards the SCIENTIFIC CONDITION that will win.
@@ -120,10 +130,15 @@ d) administrators and tech stuff that handles problems with the system
 * All updates to the platform should be done only after user voting on the idea, except for the fixing technical faults
 
 ## Functions list
-* TBD
+* Deal creating interface
+* Deals list
+* User list
+* Comments (for external users) with THUMBS UP, THUMBS DOWN and ~ (50/50 or unsure point). User might choose to support one, another or all sides of the deal with one comment. User might edit his comment but the comment history will be preserved & shown inside of his comment. User also can comment without choosing any of the sides. Comments can be sub-commented also with same options, and the level of max sub-sommenting can be either infitite or limited to some number.
+* Money topup, withdraw & converting options
 
 ## Platform development options
 * TBD
+* Steem-code based maybe? Or not.
 
 ## Author
 Mentioning author of the project idea - @sxiii would be really nice.
