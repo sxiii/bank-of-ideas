@@ -2,7 +2,7 @@
 
 ## Project brief description
 Telegram is great personal messanger. But it's official version was never suitable for any professional work.
-We need features of professional chats like Matrix (Riot), IRC, Mattermost or slack for personal effectiveness and comfort.
+We need features of professional chats like Matrix (Riot), IRC, Mattermost or Slack for personal effectiveness and comfort.
 
 ## Project full description
 Good thing is that my idea is not something imaginary. We already have a good external clients out there developed:
@@ -27,6 +27,10 @@ Pavel Durov recently added MANUAL folders functionality. No, Pasha, We DO NOT NE
 WE NEED AUTOMATED FOLDERS & CATEGORIES. I don't understand how Pavel Durov and his team doesn't see that.
 
 Manual folders are useful additional feature, but the main idea I am speaking about here is very important.
+
+## Why not use Plus and Bettergram?
+* Bettergram has stopped developing somewhere in 2018, but still works mostly perfect for me (I use it now)
+* For Plus, I am also using it, but I would prefer similar features from good community opensource project
 
 ## Author
 @sxiii
