@@ -24,7 +24,7 @@ by verifying two times that he remembers his auth process.
 4) File auth - you need to attach specific file as additional factor (files up to X megabytes; then they are checksummed and used as additional factor)
 5) Secret URL on the service - navigate to it (ideally, nobody knows about it) to continue auth process
 6) SMS code auth (we send you the code) with one or multiple SMS codes. They also might need to be merged ("1234" + "5678" = 12345678") or calculated ("1234" + "5678" = "6912") by user before sending. Calculation steps are submitted by the user (can be: addition, subtraction, multiplication, division (with round-up), rooting, etc.)
-7) Auth by email: MetaPass send you either "accept link" to your email, the "accept code", or both. You might be also asked no leave the page open while auth goes (similar to blockchain.com auth)
+7) Auth by email: MetaPass send you either "accept link" to your email, the "accept code", or both. You might be also asked to leave the page open while auth goes (similar to blockchain.com auth)
 8) Robot call audio auth (robot tell you the code by generated voice)
 9) Robot calls and asks you to type-in your "phone security PIN" (can auto-apply auth or tell you resulting code to type-in on the MetaPass platform) 
 10) User call (mobile/wire/skype/telegram/zoom/etc): you need to call some specified or secret number and type-in secret combination or listen to the code. Calls can be audio, video, or both.
