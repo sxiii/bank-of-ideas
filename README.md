@@ -18,7 +18,7 @@ Github and gitlab would still receive mirrors of The Open Bank in any case.
 * In the same way, The Open Bank can be seen as **human ideas preservation place**, similar to "Svalbard Global Seed Vault" (github projects are stored there too, so our ideas might be in the next batch!).
 * Last way, you can see The Open Bank as **international hackathon that never stops**.
 
-Q: "Can I work on my own project here, (and use this to hunt a team or more ideas)"?
+Q: "Can I work on my own project here, (and use this to hunt a team or more ideas)"? <BR>
 A: YES, this is also welcome in The Open Bank of Ideas.
 
 If you're still thinking "is my idea worth adding to the bank?", go to the FAQ section called "Adding ideas to the bank (AKA RULES)" and add your idea with special tag #unsure. Add your concirns about why it SHOULD and why it SHOULD NOT be made by somebody, and as the next step community will discuss your ideas and project's future. Everybody's ideas are welcome!
