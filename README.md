@@ -160,13 +160,14 @@ Results (in idea development) may vary due to quality of your project, your invo
 
 ### I like the idea of The Open Bank of Ideas! Can I support it?
 Sure! There are two main ways of doing it. Direct ways to support author of The Open Bank of Ideas (@sxiii):
-+ Share the link to The Open Bank of Ideas or to it's sub-projects (with short description)
-+ Draw informational and advertisement graphics for ideas of The Open Bank and share it everywhere
-+ Send an email campaign with information about The Open Bank to your customers or community
-+ Do a post about The Bank somewhere in cryptoblog, social network or wherever you like
-+ Tell about The Bank in your podcast or video
-+ Donate any amount of any cryprocurrency or any fiat money to author (contact me on github @sxiii or telegram @fakesnowden)
-+ Help people add their ideas to The Bank
++ **Share the link** to The Open Bank of Ideas or to it's sub-projects (with short description)
++ **Draw informational and advertisement graphics** for ideas of The Open Bank and share it everywhere
++ **Make educational video** about The Open Bank of Ideas or mention it in your other video (or both!)
++ **Record a podcast** with me or someone you want, discussing The Open Bank of Ideas
++ **Send an email campaign** with information about The Open Bank to your customers or community
++ **Do a post** about The Bank somewhere in cryptoblog, social network or wherever you like
++ **Donate** any amount of any cryprocurrency or any fiat money to author (contact me on github @sxiii or telegram @fakesnowden)
++ **Help people add their ideas** to The Bank
 
 Indirect (but still very important!) ways of supporting The Open Bank:
 + Support any opensource project in any way you like (read options above) - it does not have to be listed in The Bank
