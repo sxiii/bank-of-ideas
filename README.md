@@ -167,7 +167,8 @@ Sure! There are two main ways of doing it. Direct ways to support author of The 
 + Tell about The Bank in your podcast or video
 + Donate any amount of any cryprocurrency or any fiat money to author (contact me on github @sxiii or telegram @fakesnowden)
 + Help people add their ideas to The Bank
-* Indirect (but still very important!) ways:
+
+Indirect (but still very important!) ways of supporting The Open Bank:
 + Support any opensource project in any way you like (read options above) - it does not have to be listed in The Bank
 + Share your appreciation to opensource movement any way you like
 + Help new people with opensource software or anything you feel they need help for!
