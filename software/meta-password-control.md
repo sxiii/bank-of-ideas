@@ -19,20 +19,27 @@ MetaPass allows you to choose as many factors as you like. Also, each factor can
 of time to acomplish. To be prepared to using of the auth process to MetaPass, user should pass the "auth training"
 by verifying two times that he remembers his auth process.
 1) Passwords or passphrases - as many as user want and as long as user want. Also they can have text, audio, video, or everything as hints ('static password')
-2) Passwords can contain automatically changing parts or "masks". For example, your password is "p4ssw0rD" and today is 01.01.2020; you can make resulting password, for example: 01.01.2020#p4ssw0rD
+2) Passwords can contain automatically changing parts or "masks". For example, your password is "p4ssw0rD" and today is 01.01.2020; you can make resulting password, for example: 01.01.2020#p4ssw0rD ('dynamic password')
 3) YubiKey or similar physical devices - as many as user want
-4) File auth - you need to attach specific file as additional factor (files up to X megabytes; then they are checksummed and used as additional factor)
-5) Secret URL on the service - navigate to it (ideally, nobody knows about it) to continue auth process
-6) SMS code auth (we send you the code) with one or multiple SMS codes. They also might need to be merged ("1234" + "5678" = 12345678") or calculated ("1234" + "5678" = "6912") by user before sending. Calculation steps are submitted by the user (can be: addition, subtraction, multiplication, division (with round-up), rooting, etc.)
-7) Auth by email: MetaPass send you either "accept link" to your email, the "accept code", or both. You might be also asked to leave the page open while auth goes (similar to blockchain.com auth)
-8) Robot call audio auth (robot tell you the code by generated voice)
-9) Robot calls and asks you to type-in your "phone security PIN" (can auto-apply auth or tell you resulting code to type-in on the MetaPass platform) 
-10) User call (mobile/wire/skype/telegram/zoom/etc): you need to call some specified or secret number and type-in secret combination or listen to the code. Calls can be audio, video, or both.
-11) "Honeypot" or "error" login protection at any point during auth. What this point means, is that user can 
+4) Code generation apps - as many as user want - and allowing manipulations that needs to be done by the user to log-in (check "SMS code auth #7" idea for explaination)
+5) File auth - you need to attach specific file as additional factor (files up to X megabytes; then they are checksummed and used as additional factor)
+6) Secret URL on the service - navigate to it (ideally, nobody knows about it) to continue auth process
+7) SMS code auth (we send you the code) with one or multiple SMS codes. They also might need to be merged ("1234" + "5678" = 12345678") or calculated ("1234" + "5678" = "6912") by user before sending. Calculation steps are submitted by the user (can be: addition, subtraction, multiplication, division (with round-up), rooting, etc.)
+8) Auth by email: MetaPass send you either "accept link" to your email, the "accept code", or both. You might be also asked to leave the page open while auth goes (similar to blockchain.com auth)
+9) Robot call audio auth (robot tell you the code by generated voice)
+10) Robot calls and asks you to type-in your "phone security PIN" (can auto-apply auth or tell you resulting code to type-in on the MetaPass platform) 
+11) User call (mobile/wire/skype/telegram/zoom/etc): you need to call some specified or secret number and type-in secret combination or listen to the code. Calls can be audio, video, or both.
+12) "Honeypot" or "error" login protection at any point during auth. What this point means, is that user can 
 configure the look and feel of "an error", while AUTH went okay - you just need to press in specific place of the page
 or navigate specific URL.
-12) Skill proof feature. This can be made as a mini-game, in which user has to achieve some specific score (say: 1000). Minigame should be hard enough for newcomers to achieve this score.
-13) CryptoPayAuth and FiatPayAuth: you can set-up a specific wallet that needs to receive specific amount of money to log you in. Example: you need to send 0.01234 ETH to Your_Secret_wallet. System monitors transactions and when the money arrives, this step is done. The amount that needs to be transferred can be: generated at login randomly but in limits (ex: from 0.000001 eth to 0.009999 eth), fixed by you and visible while logging in, fixed by you and invisible while logging in. Instead of ETH, we might have any Crypto, or even Fiat if the service you want to use has API. Amounts are usually transferred between your own wallets (so you pay 0 or only network/transfer comissions), but you can also set a donation into a "MetaPass system login" wallet instead. NOTE: This step might slown down log-in dramatically.
+13) Skill proof feature. This can be made as a mini-game, in which user has to achieve some specific score (say: 1000). Minigame should be hard enough for newcomers to achieve this score. Also the best here, is that you can specify the exact points at which you need to DIE or EXIT game to successfully log-in. Even better, you might request some exact amount of points that can be gathered only by multiple plays of the game (say, you can earn 1000 points in one game, but you need 3666 points for login to succeed). In this example, you need to "win" the game fully 4 times, and at 5th playthrough, stop playing at the moment when you reach score 666. This exact amount of points to log-in should be hidden from hacker.
+14) CryptoPayAuth and FiatPayAuth: you can set-up a specific wallet that needs to receive specific amount of money to log you in. Example: you need to send 0.01234 ETH to Your_Secret_wallet. System monitors transactions and when the money arrives, this step is done. The amount that needs to be transferred can be: generated at login randomly but in limits (ex: from 0.000001 eth to 0.009999 eth), fixed by you and visible while logging in, fixed by you and invisible while logging in. Instead of ETH, we might have any Crypto, or even Fiat if the service you want to use has API. Amounts are usually transferred between your own wallets (so you pay 0 or only network/transfer comissions), but you can also set a donation into a "MetaPass system login" wallet instead. NOTE: This step might slown down log-in dramatically.
+15) Other already logged-in accounts: user might need to be logged to any number of social networks or accounts (example: facebook, google and reddit) to proceed
+16) Social post: user can be requested to make a post to one or multiple social networks with auth text. Auth text can be randomly generated by system based on templates or specified by user secretly.
+17) Text bot verification: user need to send a secret code to service's bot in IRC, Jabber, Telegram, Wire, etc.
+18) Secret email verification: user needs to send email to system's address. The email should contain secret text specified by user or text generated by system based on templates & upon login.
+19) Signing a text message or file: user is requested to sign a system-generated message (or file) with his private key and send the result to the system. If user has access to his private key, we can verify that HE ACTUALLY IS the message signer by using his publik key. This is the example approach used in Bitcoin and other Cryptocurrencies everywhere.
+20) Asking another MetaPass user to approve your login attempt. This step is done from his/her MetaPass account after successful login. It can be your family member or your friend, for example.
 *) Additional "auth factors" can be proposed and added by users via GitLab/Github etc.
 
 * Each auth factor can have text, audio, video, or everything both as hints or misleads/distractions.
@@ -50,6 +57,8 @@ By default system should recommend user to set-up at least 3 to 5 steps auth.
 * 6 to 9 auth steps should be considered as good security (16 to 25 points) 
 * 10 to 13 auth steps should be considered high security (26 to 35 points)
 * 14 and up auth steps should be considered extra security (36 or more points)
+
+As you can imagine, the security of log-in process into the MetaPass system can be much more safe, than accessing secret service database or launch codes for nuclear rockets. You can set-up the security so high (example: 40 log-in steps), that even you, yourself, will be prevented from logging-in most of the time, if you wanted to. Also, you can set the account security to not so high level, but to count on lazyness of the hacker. In this case, you can ask to win the small game during log-in session (example) 20 times, which might be annoying and time-consuming for hacker.
 
 ## Additional ideas for the future auth methods
 * If we can make 99% exact neural network which detect user's photos, we could use it as factor.
