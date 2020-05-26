@@ -159,8 +159,7 @@ It totally depends on you, your time and your goals with the project.
 Results (in idea development) may vary due to quality of your project, your involvement, current conditions on the market, weather, quality of life of your developers and 100500 other criteria. But if you've added your idea to The Open Bank, nobody can say anymore that "you hadn't left anything for your descendants". Just give them a link to The Bank!
 
 ### I like the idea of The Open Bank of Ideas! Can I support it?
-Sure! There are two main ways of doing it.
-* Direct ways to support author of The Open Bank of Ideas (@sxiii):
+Sure! There are two main ways of doing it. Direct ways to support author of The Open Bank of Ideas (@sxiii):
 + Share the link to The Open Bank of Ideas or to it's sub-projects (with short description)
 + Draw informational and advertisement graphics for ideas of The Open Bank and share it everywhere
 + Send an email campaign with information about The Open Bank to your customers or community
