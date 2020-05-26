@@ -65,7 +65,7 @@ As you can imagine, the security of log-in process into the MetaPass system can 
 
 ## Example datasources for dynamic passwords
 The idea behind this is that data should be exactly the same for you and for MetaPass parser to check if you typed-in everything correctly.
-* Current date & time
+* Current date & time (in specific timezone!); NTP synced
 * Current weather in exact place by weather datafeed from specific source (e.g. weather underground)
 * Monetary exchange rate (e.g. BTC/ETH average for previous day according to CoinMarketCap or Kuna data, etc)
 * First word in top-1 news from specific RSS/Atom/News/Blogpost source
