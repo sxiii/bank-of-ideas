@@ -14,7 +14,7 @@ Basic ideas behind the project:
 * When user successfully logs-in, he can manage the passwords and set-up automated bots for this feature
 * Another use-case for the platform is one-click sign-in into any list of specified services via templates & auth robots, as long as automated scheduled password changed (you can even change your passwords every day, if you like)
 
-## Different factors for authentication to platform
+## Different authentication factors
 MetaPass allows you to choose as many factors as you like. Also, each factor can have any specified amount
 of time to acomplish. To be prepared to using of the auth process to MetaPass, user should pass the "auth training"
 by verifying two times that he remembers his auth process.
