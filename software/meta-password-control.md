@@ -69,6 +69,7 @@ The idea behind this is that data should be exactly the same for you and for Met
 * Current weather in exact place by weather datafeed from specific source (e.g. weather underground)
 * Monetary exchange rate (e.g. BTC/ETH average for previous day according to CoinMarketCap or Kuna data, etc)
 * First word in top-1 news from specific RSS/Atom/News/Blogpost source
+* You can specify "static salt" (secretly for you) to be added to the data source before applying the code to MetaPass. For example, using time, now is GMT 12:00, and your salt is "+ 1001", you can use 2201 as code in this example.
 * Allow developers to add their own data sources
 
 ## Additional ideas for the future auth methods
