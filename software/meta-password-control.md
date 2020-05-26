@@ -84,9 +84,8 @@ Developers should have API to write their own AUTH and PASSCHANGE robots.
 * Free users can have maximum number of external services connected (or automated), example: 100 services max.
 
 ## Additional docs & info on the project
-* Project was announced in 2015 as "MetaPass" in Russian Hackathon @ Rostov-on-Don, presentation from that hackathon: 
-...
-If you believe FAKETEMP project idea is good, please visit the website and star my github repo. Thank you.
+* Project appeared as idea and was drafted in 2015~2017 by @sxiii
+* Project was publically announced in 2018 as "MetaPass" at "47hours" Russian Hackathon @ Rostov-on-Don, presentation from that hackathon: http://bit.ly/metapassword
 
 ![Password_strength](https://imgs.xkcd.com/comics/password_strength.png)
 
