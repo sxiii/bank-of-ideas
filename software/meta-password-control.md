@@ -63,7 +63,7 @@ By default system should recommend user to set-up at least 3 to 5 steps auth.
 
 As you can imagine, the security of log-in process into the MetaPass system can be much more safe, than accessing secret service database or launch codes for nuclear rockets. You can set-up the security so high (example: 40 log-in steps), that even you, yourself, will be prevented from logging-in most of the time, if you wanted to. Also, you can set the account security to not so high level, but to count on lazyness of the hacker. In this case, you can ask to win the small game during log-in session (example) 20 times, which might be annoying and time-consuming for hacker.
 
-## Example sources of data for dynamic passwords
+## Example datasources for dynamic passwords
 The idea behind this is that data should be exactly the same for you and for MetaPass parser to check if you typed-in everything correctly.
 * Current date & time
 * Current weather in exact place by weather datafeed from specific source (e.g. weather underground)
