@@ -29,6 +29,7 @@ by verifying two times that he remembers his auth process.
 10) "Honeypot" or "error" login protection at any point during auth. What this point means, is that user can 
 configure the look and feel of "an error", while AUTH went okay - you just need to press in specific place of the page
 or navigate specific URL.
+11) Skill proof feature. This can be made as a mini-game, in which user has to achieve some specific score (say: 1000). Minigame should be hard enough for newcomers to achieve this score.
 *) Additional "auth factors" can be proposed and added by users via GitLab/Github etc.
 
 Each of the protection measure/factor should have some "security points" assigned to it (example: SMS auth should be considered the less safe and add you only 1 security points).
@@ -46,6 +47,11 @@ By default system should recommend user to set-up at least 3 to 5 steps auth.
 13) Robot call with voice recognition (check the previous point).
 * Each step of the AUTH process can be marked by specific color and word that you like. It will be shown during the process.
 * Auth process can be automatically shuffled in random way. Let's say you have 7 auth factors, they will all come at random order.
+
+## Flexible blocking
+* If the user (or the attacker, we don't know that, right?) cannot login specified times (default: 4), he got banned for T (T=specified time, example: 4 hours).
+* If the user (or the attacker) cannot login after time-out 4 times more, we make NEW_BAN_TIME=T*x where X can be setted up by the user (default = 4, so it will be 4*4=16 hours of bantime)
+* What to do after third time fail condition should be either prolonguing even more (example: T*x^x) or blocking account for manual check-up or starting some security measure (e.g. auto-changing all the passwords and blocking account or something like that)
 
 ## What is next? What's happening after auth? Functions?
 User get access to his password vault with the following functions:
