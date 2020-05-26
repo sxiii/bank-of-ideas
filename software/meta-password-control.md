@@ -10,10 +10,9 @@ are hard for humans to remember, but easy for computers to guess.
 
 Basic ideas behind the project:
 * Access to the platform should be allowed by using auto-rotating, super-hard-to-guess password & mask
-* Access to the platform needs to be flexibly protected by as many additional factors, as user want (2? 3? 5? 10? 20?)
+* Access should be flexibly protected by as many additional factors, as user want (3? 5? 7? 10? 15?)
 * When user successfully logs-in, he can manage the passwords and set-up automated bots for this feature
-* Another use-case for the platform is one-click sign-in into any list of specified services via templates & auth robots
-
+* Another use-case for the platform is one-click sign-in into any list of specified services via templates & auth robots, as long as automated scheduled password changed (you can even change your passwords every day, if you like)
 
 ## Different factors for authentication to platform
 MetaPass allows you to choose as many factors as you like. Also, each factor can have any specified amount
@@ -33,6 +32,7 @@ by verifying two times that he remembers his auth process.
 configure the look and feel of "an error", while AUTH went okay - you just need to press in specific place of the page
 or navigate specific URL.
 12) Skill proof feature. This can be made as a mini-game, in which user has to achieve some specific score (say: 1000). Minigame should be hard enough for newcomers to achieve this score.
+13) CryptoPayAuth and FiatPayAuth: you can set-up a specific wallet that needs to receive specific amount of money to log you in. Example: you need to send 0.01234 ETH to Your_Secret_wallet. System monitors transactions and when the money arrives, this step is done. The amount that needs to be transferred can be: generated at login randomly but in limits (ex: from 0.000001 eth to 0.009999 eth), fixed by you and visible while logging in, fixed by you and invisible while logging in. Instead of ETH, we might have any Crypto, or even Fiat if the service you want to use has API. Amounts are usually transferred between your own wallets (so you pay 0 or only network/transfer comissions), but you can also set a donation into a "MetaPass system login" wallet instead. NOTE: This step might slown down log-in dramatically.
 *) Additional "auth factors" can be proposed and added by users via GitLab/Github etc.
 
 * Each auth factor can have text, audio, video, or everything both as hints or misleads/distractions.
@@ -40,6 +40,7 @@ or navigate specific URL.
 * System can show current step number, total step number, both, or FAKING the step numbers to mislead the attacker.
 * Each auth factor should be as hard as possible for robots to go through.
 * Auth can be time-locked. As example, you might be permitted to login only from 12:00:00 to 16:30:00 by UTC time. In case you are trying to login in the wrong time, you might got "fair" error (wrong login time), or "fake" error which will mislead attacker (e.g. wrong password, system error, etc.).
+* It should be possible for user to set up a "disaster recovery" plan: what will happen if he/she cannot pass some auth methods. For example, he can replace one or multiple auth steps with another steps by going into secret URL or requesting system for this behavior at some point. Especially this step is important for unstable auth plugins like "CryptoPayAuth" or "FiatPayAuth" modules.
 
 Each of the protection measure/factor should have some "security points" assigned to it (example: SMS auth should be considered the less safe and add you only 1 security points).
 Based on the points we can then tell user, how safe is their set-up.
@@ -51,9 +52,9 @@ By default system should recommend user to set-up at least 3 to 5 steps auth.
 * 14 and up auth steps should be considered extra security (36 or more points)
 
 ## Additional ideas for the future auth methods
-11) If we can make 99% exact neural network which detect user's photos, we could use it as factor.
-12) If we can make 99% exact neural network to detect user's voice, we could use it as factor.
-13) Robot call with voice recognition (check the previous point).
+* If we can make 99% exact neural network which detect user's photos, we could use it as factor.
+* If we can make 99% exact neural network to detect user's voice, we could use it as factor.
+* Robot call with voice recognition (check the previous point).
 * Each step of the AUTH process can be marked by specific color and word that you like. It will be shown during the process.
 * Auth process can be automatically shuffled in random way. Let's say you have 7 auth factors, they will all come at random order.
 
@@ -75,6 +76,12 @@ User get access to his password vault with the following functions:
 * AUTH robot: it allows you to press 1 button in the system, and it logs-in you automatically to your desired accounts.
 * PASSCHANGE robot: it allows you to automatically change you password in specified service without touching it at all.
 Developers should have API to write their own AUTH and PASSCHANGE robots.
+
+## Monetization
+* Factors, that are more expensive than others (example: robot calls) can be limited to paying subscribers
+* Free account might be limited with max number of allowed auth steps. For ex., each factor can be used only 1 time.
+* Automated password change might be limited for free users (e.g. 2 automated password change for every service for free per year)
+* Free users can have maximum number of external services connected (or automated), example: 100 services max.
 
 ## Additional docs & info on the project
 * Project was announced in 2015 as "MetaPass" in Russian Hackathon @ Rostov-on-Don, presentation from that hackathon: 
