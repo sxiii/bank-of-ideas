@@ -17,7 +17,7 @@ SHOULD NOT share personal data with anybody, including governments, police, FBI,
 
 ## List of current, centralized platforms
 Countries and platforms that are known to me. Recent data for may/june 2020. Sorted according to visitors.<BR>
-In the parentheses - visitors count according to SimilarWeb (M = millions views, K = thousands)
+In the parentheses - visitors count according to SimilarWeb (M = millions views, K = thousands):
 * USA - craigslist.org (330 M)
 * Russia - avito.ru (220 M), youla.ru (23 M), yrr.ru (2.4 M)
 * France - leboncoin.fr (100 M), wannonce.com (7.8 M)
@@ -60,10 +60,13 @@ In the parentheses - visitors count according to SimilarWeb (M = millions views,
 * Switzerland - tutti.ch (5.8 M), anibis.ch (5.6 M)
 * Egypt - olx.com.eg (5.2 M)
 * Zimbabwe - classifieds.co.zw (277 K)
-* Cross-country shops like: redbrain.shop (20 M + visitors from UK, Germany, Italy, Poland, Portugal etc).
 
-* If we calculate totals, around 1650 M (1.65 Millard or Billions) of people are in total using the "classifieds" or ads websites. That stands for about 21% of the total population of 7.8 B people.
+Cross-country shops like: redbrain.shop (20 M + visitors from UK, Germany, Italy, Poland, Portugal etc).
 
+If we calculate totals, around 1650 M (1.65 Millard or Billions) of people are in total using the "classifieds" or ads websites. That stands for about 21% of the total population of 7.8 B people.
+
+Also, interestingly, OLX is not a "top-3" classifieds website of the world, but if we sum up all places where it exists, 
+we'll get over 236 M people which would pull OLX to the world's second place right after the craigslist itself.
 
 Another example can be Facebook Ads. I'm not counting special ads websites like one's for automobiles; mobile phones; etc. 
 
