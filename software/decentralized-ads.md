@@ -19,7 +19,7 @@ SHOULD NOT share personal data with anybody, including governments, police, FBI,
 Countries and platforms that are known to me. Recent data for may/june 2020. Sorted according to visitors.<BR>
 In the parentheses - visitors count according to SimilarWeb (M = millions views, K = thousands):
 * USA - craigslist.org (330 M)
-* Russia - avito.ru (220 M), youla.ru (23 M), yrr.ru (2.4 M)
+* Russia - avito.ru (220 M), youla.ru (23 M), irr.ru (2.4 M)
 * France - leboncoin.fr (100 M), wannonce.com (7.8 M)
 * Brazil - olx.com.br (90 M), vivalocal.com (8 M)
 * Turkey - sahibinden.com (82 M), arabam.com (7 M)
