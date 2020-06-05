@@ -2,7 +2,7 @@
 
 ## Project brief description
 Decentralized service that will allow anonymous goods or services exchange both locally and internationally.
-Without full control over your personal information.
+With full control over your personal information.
 
 ## Project full description
 There are many regional and local advertisement websites where you can sell old stuff (and sometimes also services).
