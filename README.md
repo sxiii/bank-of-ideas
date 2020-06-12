@@ -9,6 +9,13 @@ The following document is a FAQ about The Open Bank of Ideas and its honored com
 ### What is this all about
 The Open Bank of Ideas is DRAFT place to **openly exchange ideas and resources for any project**.
 
+### What is The Open Bank exactly?
+* You can see this as a **global brainstorming room**, where everybody is always welcome!
+* In another way, The Open Bank is an **open information space**. You can sent your idea to float and develop in here.
+* In the same way, The Open Bank can be seen as **human ideas preservation place**, similar to "Svalbard Global Seed Vault" (github projects are stored there too, so our ideas might be in the next batch!).
+* Last way, you can see The Open Bank as **international hackathon that never stops**,
+* And of course, it's a place for **crowd-sourced resource and experience exchange**.
+
 ### Ideas
 It can be anything, from small electronic device that will help people do something, to multi-purpose international corporation. DRAFT, because github is mostly good for this task, but NEVER PERFECT. We might decide to move the bank somewhere. Ideally, move it to some sort of blockchain-based, decentralized git, if it'll be more stable than github.
 Github and gitlab would still receive mirrors of The Open Bank in any case.
@@ -20,15 +27,9 @@ something to share, or both. To faster develop the project I would personally pu
 here (see section "Ideas") as well as requests of any tye (section "Resources"). In this case you will need
 two files (continue to read on that below).
 
-### What is The Open Bank exactly?
-* You can see this as a **global brainstorming room**, where everybody is always welcome!
-* In another way, The Open Bank is an **open information space**. You can sent your idea to float and develop in here.
-* In the same way, The Open Bank can be seen as **human ideas preservation place**, similar to "Svalbard Global Seed Vault" (github projects are stored there too, so our ideas might be in the next batch!).
-* Last way, you can see The Open Bank as **international hackathon that never stops**,
-* And of course, it's a place for **crowd-sourced resource and experience exchange**.
-
+### Your first questions (and answers)
 Q: "Can I work on my own project here, (and use this to hunt a team or more ideas)"? <BR>
-A: YES, this is also welcome in The Open Bank of Ideas. For gathering resources see the "resources" section.
+A: YES, this is also welcome in The Open Bank of Ideas. For gathering resources see the "resources" sections.
 
 If you're still thinking "is my idea worth adding to the bank?", go to the FAQ section called "Adding ideas to the bank (AKA RULES)" and add your idea with special tag #unsure. Add your concirns about why it SHOULD and why it SHOULD NOT be made by somebody, and as the next step community will discuss your ideas and project's future. Everybody's ideas are welcome!
 
@@ -36,6 +37,7 @@ NB: In more complex projects, people might decide to actually USE the idea but g
 
 ### What is the purpose of the bank?
 * Let the ideas come true (better if your idea will be made by some community, rather then never made by anyone, right?)
+* Unstuck the stucked development (help you to get any type of resource you need)
 * Give a fascinating, motivating and entertaining out-of the box experience
 * Solve the "lack-of-creativity" or "stuck" problem (when you're tired in the process of finding an interesting idea)
 * Honor the author of the idea in case if he wants to (NB: similar ideas might **already** be introduced by other people long time before The Open Bank of Ideas appeared!)
@@ -47,12 +49,13 @@ Important to note here: **NO STRINGS ATTACHED**. It means that your idea can be 
 * developers & scientists
 * creative professions: coder, DIY person, artist, painter, book writer, musician or DJ, photographer, videographer
 * other individual (you?)
+* resource hunters
 * company or organization (both for-profit and non-profit)
 * business accelerator or business angel community
 * startup hub or techno-park
 * team of professionals that lacks ideas to work on
 
-### What ideas can be in the bank?
+### What IDEAS can be in the bank?
 A good item for the bank would be:
 * A startup idea with basic project description (example: a VR/AR/MR gaming park of a new level)
 * Business plan of certain level (ideally, including the most parts) (example: how to make a new type of restaurant)
@@ -84,13 +87,15 @@ Any smaller idea for the **creating** an "single" object (physical or virtual) w
 * UI concepts
 * scientific video, video concepts or possible topics
 
+Note: for resource exchange requests, see the specific "resources" sections.
+
 ### What should be level of the detail to get into the bank?
 The level of detail of the project can be any (the more developed the better):
 * Basic draft of the idea without large description
 * Medium-described projects with ideas and details around it
 * Fully-blown project with business plan, financial plan, drawings, schematics and simulations
 
-The level of detail of your publication will also clarify your own level of interest in the development and might attract (or distract) other developers. Please take your time to prepare high-quality materials, without grammatical or other errors at your best.
+The level of detail of your publication will also clarify your own level of interest in the development and might attract (or distract) other developers. Please take your time to prepare high-quality materials, without grammatical or other errors at your best. If you can't, ask the community or friend to help.
 
 ### What can be physically included in the bank? "How my idea will be represented here?"
 Basically, it's three things:
@@ -215,6 +220,13 @@ It totally depends on you, your time and your goals with the project.
 3) **Active way.** If active involvement and development are your priority, you might need to do a lot of work both inside and outside of scope of your project. As there can't be general advices for inside ideas or projects as all are unique, we can recommend doing some outside PR work: create community for your project in all social networks. Start a blog or two, write articles about results of your project development. Update github, blogs, websites, social networks as frequent as you can. Create engagement, add a "we're hireing!" page on a project website (even if you don't have money to pay for development at this point). 
 
 Results (in idea development) may vary due to quality of your project, your involvement, current conditions on the market, weather, quality of life of your developers and 100500 other criteria. But if you've added your idea to The Open Bank, nobody can say anymore that "you hadn't left anything for your descendants". Just give them a link to The Bank!
+
+### Current tasks and future of The Open Bank of Ideas
+1) At this exact stage, my goal is to gather first 20+ ideas. 
+2) In sync, I also want to have all main documents (as this one) translated to at least 4 or 5 languages (english, russian, norwegian, spanish, deutsch).
+3) After first two steps are reached, new milestones might be added here.
+4) In later future time, The Open Bank community will gather online presense by making a publications about it everywhere on mass-media as well as taking parts in video interviews and podcasts. This way, we're hoping to get the first "external" participants, help exchangers, sponsors, etc.
+5) In more distant future, this could become something like global decentralized ideas & resources exchange community.
 
 ### I like the idea of The Open Bank of Ideas! Can I support it?
 Sure! There are two main ways of doing it. 
