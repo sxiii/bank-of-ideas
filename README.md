@@ -7,19 +7,28 @@ The Open Bank of Ideas is your safe ticket!
 The following document is a FAQ about The Open Bank of Ideas and its honored community.
 
 ### What is this all about
-The Open Bank of Ideas is DRAFT place to **openly exchange ideas for any project**.
+The Open Bank of Ideas is DRAFT place to **openly exchange ideas and resources for any project**.
 
+### Ideas
 It can be anything, from small electronic device that will help people do something, to multi-purpose international corporation. DRAFT, because github is mostly good for this task, but NEVER PERFECT. We might decide to move the bank somewhere. Ideally, move it to some sort of blockchain-based, decentralized git, if it'll be more stable than github.
 Github and gitlab would still receive mirrors of The Open Bank in any case.
+
+### Resources
+When developing your idea, you might stuck at some moment. So you need some type of resource to further develop
+or grow. You might as well as publishing your idea, publish a help request, give-away proposal if you have 
+something to share, or both. To faster develop the project I would personally publish both info on the project 
+here (see section "Ideas") as well as requests of any tye (section "Resources"). In this case you will need
+two files (continue to read on that below).
 
 ### What is The Open Bank exactly?
 * You can see this as a **global brainstorming room**, where everybody is always welcome!
 * In another way, The Open Bank is an **open information space**. You can sent your idea to float and develop in here.
 * In the same way, The Open Bank can be seen as **human ideas preservation place**, similar to "Svalbard Global Seed Vault" (github projects are stored there too, so our ideas might be in the next batch!).
-* Last way, you can see The Open Bank as **international hackathon that never stops**.
+* Last way, you can see The Open Bank as **international hackathon that never stops**,
+* And of course, it's a place for **crowd-sourced resource and experience exchange**.
 
 Q: "Can I work on my own project here, (and use this to hunt a team or more ideas)"? <BR>
-A: YES, this is also welcome in The Open Bank of Ideas.
+A: YES, this is also welcome in The Open Bank of Ideas. For gathering resources see the "resources" section.
 
 If you're still thinking "is my idea worth adding to the bank?", go to the FAQ section called "Adding ideas to the bank (AKA RULES)" and add your idea with special tag #unsure. Add your concirns about why it SHOULD and why it SHOULD NOT be made by somebody, and as the next step community will discuss your ideas and project's future. Everybody's ideas are welcome!
 
@@ -95,6 +104,34 @@ If you're ready to add your project, move to "How to add your idea" section.
 
 NB: We don't want to make The Bank of Ideas unstructured messy scrapyard with tonns of information (like internet is). So each and every project is suggested having **one, brief text markdown description file** and may have **few images** included. All additional information (that well-developed idea or project definitely should have!) needs to be placed in your own repos/websites and cross-linked from markdown file.
 
+### Resources directions
+The resources for making ideas or projects can work two ways. They can be:
+* request ("we need") - used mostly as a single or one-time request,
+* give-away proposal ("we have") - used mostly as constact giving away some info or help,
+* exchange/both ("we have X" but "we need Y") - used mostly for further project/idea development
+
+For example, if you have a project and developed it to some level, but now you need 1 more person in the team
+to help you along, and also 1 sponsor plus some physical stuff, you can create a one request file - related to your
+project - or constant exchange - depending on the planned length and amount of resources you need (for constnant 
+resource flow exchange, choose "exchange"). BUT, if you have several projects and/or unrelated requests (example: you
+need a coder's help for your project, while you need to find an offline place to make an event about other project),
+please create separate documents/MD files for that in the repo.
+
+## (meta) Types of exchanged resources
+When publishing your exchange request, please do it by using markdown file in the according directory.
+Directories should be called after the type of the resource.
+Example of resources for exchange (CAPS=directory names):
+* PLACES: Contacts of places where you can do your project or event for free or at affordable price
+* PRIZES: Contact data of sponsors who can support your even or make a prizes/prize fund for you
+* PEOPLE: Contacts of: volunteers, managers, investors, mentors, business angels, coders, who can help you with some tasks
+* ITEMS: Physical requests (videocameras, microphones, light, furniture, musical equipment, 3D printers, etc.)
+* FOOD: Help with food/drinks or food service for your event, project or company
+* MONEY: If you need financing to develop your idea OR if you want to invest in some type of a project
+
+Resources can be physical, virtual or both.
+Resources also can be intended for usage offline, online or both.
+Resources can be used for projects, events, companies, ideas etc.
+
 ### Adding ideas to the bank (AKA "RULES")
 By publishing your ideas into "The Open Bank of Ideas", you agree to all of the following:
 1. **Agreement on success:** you should be ready that your idea *can be taken* AND made by somebody (in any way or type). This is the *main project goal*, although it won't be reached too often, because even good ideas are hard to make at the start (in the "lack-of-everything" state). Also, ideas frequently lack a good management and personnel.
@@ -103,22 +140,41 @@ By publishing your ideas into "The Open Bank of Ideas", you agree to all of the 
 4. **Transparency agreement:** the idea of "The Open Bank of Ideas" is sharing, exchanging, improving and caring. Please do understand that transparency is a requirement in here and if you want somebody to make or improve your project, you need to share 200% of your ideas, materials etc. etc. For example, you might want to include a link to your own github repository with more details on your project, link to website, as well as register a social network accounts for news etc.
 5. **Moral & Etique:** your idea should be GOOD in general terms of Moral and Etique. We will NOT elaborate on what is Moral and Etique here explicitly and ON PURPOSE. Please do read on this topic in any other preferred source and develop your morality yourself! As an easy to understand example, we will have a zero tolerance on projects related to creating a weapons of any kind, crimes against humanity, hidden surveillance projects, projects that will highly probably lead to runied world, destroyed climate, bad ecology, or animal-harm projects. If you're unsure about your project, please share it with tags #unsure and #moderation-required, and we will try to find resources to research on the topic and find it as "general good" or "general bad". Please do understand that if your idea will fall into "general bad" category, it might be banned from The Open Bank of Ideas, sorry for that. 
 
+### General parts
+One project can maximally be consisted of two parts:
+* Project idea description markdown file (additional "external" files on the project can be linked)
+* Resource exchange description markdown file
+If your project have both files, please cross-link them so people can find them easily.
+
 ### How to add your idea (AKA "THE PROCESS")
 1. Clone this repository ```git clone sxiii/bank-of-ideas```.
-2. Add your idea to the section (folder) that you think it should belong, as a markdown file, with the following name scheme: ``` [ folder/project-name-superbrief-proposal.md ]```. For example, if you would like to add a description about your idea of making a neuro-helmet as a neuro-interface for doctors, please make file similar to ```[ neuro/neurointerface-for-doctors.md ]```. Add images if needed as files ```[ neuro/neurointerface-for-doctors-illustration-1.png ]```.
-3. Create a pull request with short info on your project.
+2. Add your idea to the section (folder) that you think it should belong, as a markdown file, with the following name scheme: ```[ ideas/folder/project-name-superbrief-description.md ]```. For example, if you would like to add a description about your idea of making a neuro-helmet as a neuro-interface for doctors, please make file similar to ```[ ideas/neuro/neurointerface-for-doctors.md ]```. Add images if needed as files ```[ ideas/neuro/neurointerface-for-doctors-illustration-1.png ]```. Larger files should be hosted externally and just linked in the file.
+3. If your idea has a resource exchange proposal, don't forget to add that as a separate markdown file. Filename should match your main project MD file, but the folder for the exchange proposal will be different. In general, it'll be ```[ resources/request-type/project-name.md ]```. For similar example above, if you need doctors to help you to develop your device, it will be: ```[ resources/people/neurointerface-for-doctors.md ]```. This mean you want to exchange "resource" by type "people" under your project "neurointerface for doctors". Dont't forget to cross-link file #2 and #1.
+4. Create a pull request with short info on your project.
 
 ### What should be in the project's markdown file?
 1. Brief / super short description about your project. Ideally, in 3 phrases.
 2. "Medium" / normal idea description, without too much details. Usually this is from half page of text up to 2 pages of text.
 3. Images (one, two or several) can be included here too as markdown allows. The format is ```! [ img name ] ( img url )``` without spaces.
 4. External links. The format is ```[ link name ] ( link url )``` without spaces: 
+* resource file cross-link
 * idea / project repository link 
 * idea / project website link
 * github issue discussion link
 * any additional link that's relevant
 5. Author of the idea and preference or non-preference of mentioning of the author.
 6. Proposed license scheme for the project.
+
+### What should be in the resource exchange markdown file?
+1. Brief / super short description about your project (if you have main idea file, just copy-paste brief from there).
+2. If you have main project markdown file, don't include full description, but include a cross-link to it here.
+3. Request type (one of the following: places, prizes, people, items, food, money)
+4. Your exchange terms descrition and proposal (note: they should not be 100% final, just for reference!)
+5. External links. The format is ```[ link name ] ( link url )``` without spaces: 
+* related idea / project repository link 
+* related idea / project website link
+* github issue discussion link
+* any additional link that's relevant
 
 ### What is markdown and how it's done?
 It's an easy and understandable syntax for writing a documents, briefs and other papers. [Read more](http://en.wikipedia.org/wiki/Markdown)
@@ -136,6 +192,7 @@ Please bear in mind that licensing scheme for the idea or project **will be foll
 * One issue / discussion per project.
 * Project markdown file should include the link to general discussion, and general discussion should link to the project markdown descripton (cross-linking).
 * If you want to discuss project or idea "in details" or start working on it, please find author's attached repository for the project and discuss in-detail there. If project repo does not exist, create it **AND THEN LINK** this new repo in two places: first, the project markdown ".md" documentation file (read "THE PROCESS" section), second, in the project discussion in issues (if it exist).
+* Resource requests should have separate issues for discussions.
 
 ### Case for projects that already exist
 First rule of thumb for authours: **please check that your project does not exist in the way you want/see it before publishing**. Very often, the authors of the project or idea don't know that somebody already implemented it in a good or better way. Please do your own research on existence of your idea **at least in two different languages** and **at least in two search engines**. The more you research, the better.
@@ -146,11 +203,12 @@ Also, if you're unsure about similarity to other projects, please do publish it 
 
 ### Recommended tags
 * Need some resources to help your idea or project? Add tags that fits: #help-wanted #need-coder #need-marketing #need-designer #need-hr #need-manager #need-cofounder #need-investor #need-scientist #need-research #need-office #need-tester #need-community #need-seo #need-hosting #need-website #need-repo #need-translation etc.
+* if you have both idea & resource exchange files published on same project, please ADD THE SAME TAGS TO BOTH.
 * if you're unsure about level of your project: #unsure and #moderation-required
 * still working on project's description draft? Add: #draft (remove #draft after you finish with description and basics)
 * other tags might be added in the future
 
-### I've published the idea in the Open Bank. What's now?
+### I've published the idea or resource exchange proposal in the Open Bank. What's now?
 It totally depends on you, your time and your goals with the project.
 1) **Passive way.** You might want to just preserve your idea for the future or for somebody to work on it someday. In this case, you don't need to do anything further, maybe to subscribe to this repository ("watch" button on the top-right) and that's all.
 2) **Medium way.** If you want to develop the project by yourself from time to time, you might want to start a discussion ("issue" with description of problems you met upon developing your idea or project. After that, you might add tags, for example, "#need-developer" and "#need-investor" and subscribe to this repo ("watch" button on the top-right).
@@ -159,7 +217,9 @@ It totally depends on you, your time and your goals with the project.
 Results (in idea development) may vary due to quality of your project, your involvement, current conditions on the market, weather, quality of life of your developers and 100500 other criteria. But if you've added your idea to The Open Bank, nobody can say anymore that "you hadn't left anything for your descendants". Just give them a link to The Bank!
 
 ### I like the idea of The Open Bank of Ideas! Can I support it?
-Sure! There are two main ways of doing it. Direct ways to support author of The Open Bank of Ideas (@sxiii):
+Sure! There are two main ways of doing it. 
+
+Direct ways to support author of The Open Bank of Ideas (@sxiii):
 + **Share the link** to The Open Bank of Ideas or to it's sub-projects (with short description)
 + **Draw informational and advertisement graphics** for ideas of The Open Bank and share it everywhere
 + **Make educational video** about The Open Bank of Ideas or mention it in your other video (or both!)
@@ -174,4 +234,4 @@ Indirect (but still very important!) ways of supporting The Open Bank:
 + Share your appreciation to opensource movement any way you like
 + Help new people with opensource software or anything you feel they need help for!
 
-Cross collaboration is our power. Let's go develop together!
+Cross collaboration is our power. Let's go develop and gather resources together!
