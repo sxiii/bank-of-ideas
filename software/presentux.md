@@ -38,6 +38,8 @@ I was taking into the consideration the following distros currently:
  - q4os
  - slax
  - voidlinux
+ - gentoo
+ - NixOS or GUIX
 
 I was also thinking about "static linux" options but I don't sure I really need them.
 
