@@ -1,6 +1,4 @@
-## PresentTux
-
-## Project brief description
+## PresentTux - Project brief description
 The idea called "PresenTux". <br>
 It's a presentation distribution. A linux for making best presentations ever. <br>
 And that's it, basically! <br>
@@ -45,8 +43,9 @@ I was also thinking about "static linux" options but I don't sure I really need 
 
 ...
 
-I am open to suggestions in this github repo (issues) as well as via StackOverflow question here:
-https://stackoverflow.com/questions/63884697/using-yocto-linux-as-a-base-distro-for-a-presentation-project
+I am open to suggestions in this github repo (issues) as well as two question here:
+* https://unix.stackexchange.com/questions/609386/choosing-linux-as-a-base-distro-for-a-presentation-project-presentux
+* https://stackoverflow.com/questions/63884697/using-yocto-linux-as-a-base-distro-for-a-presentation-project
 
 ## Author
 @sxiii
