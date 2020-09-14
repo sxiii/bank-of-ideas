@@ -56,4 +56,4 @@ Preferably the GPLv3, BSD, MIT or similar.
 
 ## Links
 * Website: N/A
-* Github: https://github.com/sxiii/bank-of-ideas/software/presentux.md
+* Github: https://github.com/sxiii/bank-of-ideas/blob/master/software/presentux.md
