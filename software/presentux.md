@@ -6,7 +6,7 @@ It's a presentation distribution. A linux for making best presentations ever. <b
 And that's it, basically! <br>
 
 ## Project full description
-<summary><details>Here's long story, if you like to understand the idea in full (feel free to skip it as well):</details>
+<details><summary>Here's long story, if you like to understand the idea in full (feel free to skip it as well):</summary>
 
 I've tired to see people reconnecting devices and setting up everything every time during presentations.
 Sometimes (or for somebody who's prepared) it can take 10 to 20 seconds, while at the other times, if somebody isn't prepared or the hardware used is not-so-popular, it can take 5 or even 10 minutes.
@@ -14,7 +14,7 @@ This makes speeches inconsistent. It's okay when you have 1, 2 or 3 speakers - b
 So I was thinking it's better to take 60 seconds to prepare for every person (or even less, if possible) rather then take 20 seconds for some of the people but usually 3-5 minutes for most of the people. Total waiting time will be less, and the results will be consistant.
 Other than that, while somebody is setting up presentations, you see his/her OS, files, chats, browser, open apps, and other personal stuff, that is sometimes not that good to show.
 If you really want to give a good speech - you need to create a constant image.
-</summary>
+</details>
 
 Here's what PresenTux should do:
 * Boot straight into the presentation, ideally, faster than 30 secs, up to 60 secs is OK too
