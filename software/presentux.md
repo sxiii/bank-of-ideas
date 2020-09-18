@@ -25,6 +25,9 @@ Here's what PresenTux should do:
 * If the URL is specified: connect via DHCP with eth0 or to wifi
 * Ideally, I would have to write an electron or similar wrapper, which will help user to "generate" his own distribution out of the source image, his presentation file and his logo, and then write all of the files to flash drive (similar to balenaEtcher)
 * Support "clickers" or remote mouses (this will work out of the box, I think)
+* Startup music playback (setting in textfile) - plays 1 time upon start or 1 time before every presentation file load
+* Background music playback (setting in textfile) - in ways of "playlist once", "unlimited shuffle", "unlimited playlist", "radio URL"
+* Presentation daisy-chaining (so-called presentation playlist)
 
 I believe that building from scratch is better than stripping-down some large distro but I am open to all suggestions.
 
