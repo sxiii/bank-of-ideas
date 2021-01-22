@@ -1,4 +1,4 @@
-## The Open Bank of Ideas
+## The Open Bank of Ideas (also known as TOBIAS)
 Have you ever felt that you have really cool idea, but lacked something to develop it further?
 It might be lack of knowledge, resources, people, time, money or a mix of these points?
 Still believe that idea is so cool and need to be made someday buy someone?
